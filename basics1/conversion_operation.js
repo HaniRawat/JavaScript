@@ -12,7 +12,10 @@ let score = "33abc" // gives NaN
 
 let isLoggedIn = 1
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn)
+// console.log(booleanIsLoggedIn)
 
 //OPERATIONS
 
+console.log(null > 0)
+console.log(null == 0)
+console.log(null >= 0)
